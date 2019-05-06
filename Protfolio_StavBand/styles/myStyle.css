@@ -80,6 +80,7 @@ img {
     display: block;
     width: 35px;
     height: auto;
+    margin-right:30px
 }
 .overlay {
     position: absolute;
